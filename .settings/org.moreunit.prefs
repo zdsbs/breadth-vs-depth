@@ -1,0 +1,7 @@
+#Mon Jan 30 19:50:55 EST 2012
+eclipse.preferences.version=1
+org.moreunit.prefixes=
+org.moreunit.test_methodType=testMethodTypeNoPrefix
+org.moreunit.test_type=junit4
+org.moreunit.unitsourcefolder=breadth-vs-depth\:src/main/java\:breadth-vs-depth\:src/main/test
+org.moreunit.useprojectsettings=true
